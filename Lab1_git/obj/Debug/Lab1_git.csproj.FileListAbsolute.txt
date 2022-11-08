@@ -1,0 +1,8 @@
+C:\Users\Ярослав\Desktop\фріланс\C#\Lab1_git\Lab1_git\bin\Debug\Lab1_git.exe.config
+C:\Users\Ярослав\Desktop\фріланс\C#\Lab1_git\Lab1_git\bin\Debug\Lab1_git.exe
+C:\Users\Ярослав\Desktop\фріланс\C#\Lab1_git\Lab1_git\bin\Debug\Lab1_git.pdb
+C:\Users\Ярослав\Desktop\фріланс\C#\Lab1_git\Lab1_git\obj\Debug\Lab1_git.csproj.AssemblyReference.cache
+C:\Users\Ярослав\Desktop\фріланс\C#\Lab1_git\Lab1_git\obj\Debug\Lab1_git.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ярослав\Desktop\фріланс\C#\Lab1_git\Lab1_git\obj\Debug\Lab1_git.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\Desktop\фріланс\C#\Lab1_git\Lab1_git\obj\Debug\Lab1_git.exe
+C:\Users\Ярослав\Desktop\фріланс\C#\Lab1_git\Lab1_git\obj\Debug\Lab1_git.pdb
